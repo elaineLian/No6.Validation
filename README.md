@@ -1,21 +1,10 @@
 # no6.validation
 
-> A Vue.js project
+> The F2E - 前端修練精神時光屋 (第 6 週 作品) - [登入表單驗證](https://fchsu.github.io/No6.Validation/dist/index.html)
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+- Sass 變數設定
+- Bootstrap 框架應用
+- Vue-cli / Vue-router 實作
+- 表單驗證
+	1. 正則表達式 應用
+	2. 圖片拖曳至特定區域可預覽
